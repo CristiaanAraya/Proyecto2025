@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristian Araya",
+  "license": "ISC",
+  "type": "module",
+  "description": " Proyecto de backend para la materia de Desarrollo de Aplicativos"
+}
